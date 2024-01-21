@@ -1,0 +1,20 @@
+body{
+    background-color: #00f;
+}
+
+h1{
+    color: #fc0;
+    border-top: 2px solid #FFF;
+    border-bottom: 2px solid #FFF;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+p {
+color: #FC0;
+font-size: 2em;
+}
+
+P span{
+    font-size: 2em;
+}
